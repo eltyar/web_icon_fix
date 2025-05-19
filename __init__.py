@@ -1,0 +1,1 @@
+# -*- coding: utf-8 -*-\n# This module is intended to fix web_icon issues
