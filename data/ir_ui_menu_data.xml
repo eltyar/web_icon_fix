@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?>\n<odoo>\n    <data noupdate="1">\n        <!-- Fix for web_icon values that might be causing issues -->\n        <function model="ir.ui.menu" name="_fix_web_icons"/>\n    </data>\n</odoo>
