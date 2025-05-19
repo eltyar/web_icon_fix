@@ -1,0 +1,1 @@
+# -*- coding: utf-8 -*-\nfrom . import ir_ui_menu
